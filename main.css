@@ -1,0 +1,51 @@
+@import url("https://use.typekit.net/tat1guu.css");
+body {
+        background-image: url("imagenes/fondo.jpg");
+        background-size: cover;
+        font-family:'merriweather',sans-serif;
+        color: rgb(28, 197, 25);
+      }
+nav {
+    background-color:#fffcd9;
+}
+
+.navbar-toggler {
+    border:0px;
+    color: rgb(28, 197, 25) ;
+}
+.navbar .navbar-nav > li > a {
+    color:rgb(28, 197, 25);
+}
+
+img{
+    max-width: 100%;
+}
+.gallery {
+    padding: 50px;
+}
+footer{
+    background-color: #fffcd9;
+    padding: 20px;
+}
+.contacto{
+    width: 40%;
+    margin-top: 1%;
+}
+ul li{
+    display:inline-block; 
+    padding: 0 20px; 
+    position:relative;
+  }
+.btn-primary {
+    background-color: rgb(245, 252, 174);
+    color: rgb(28, 197, 25) ;
+}
+.social-links a {   
+    color: rgb(28, 197, 25) ;
+    padding: 5px;
+}
+
+
+
+
+
